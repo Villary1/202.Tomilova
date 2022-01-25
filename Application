@@ -1,0 +1,6 @@
+#include <iostream>
+
+int main()
+{
+    std::cout << "I’m Victoria Tomilova, and I’m not a monkey";
+}
